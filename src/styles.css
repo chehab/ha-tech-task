@@ -2,3 +2,11 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+
+body {
+  background-image: url("//live.staticflickr.com/7622/27982634645_9e0a983d94_o.png");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
